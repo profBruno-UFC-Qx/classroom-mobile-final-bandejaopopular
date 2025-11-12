@@ -1,30 +1,57 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/AR7CADm8)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=21621806)
 # Proposta de aplicativo
 
-## Equipe
-* **Nome do Aluno(a) 1:** [Seu nome e matrícula]
-* **Nome do Aluno(a) 2:** [Seu nome e matrícula]
-* **Nome do Aluno(a) 3:** [Seu nome e matrícula]
-* ...
+O sistema de gestão oferece uma solução informatizada e integrada para gerenciar as
+principais operações do dia a dia do restaurante. O intuito do desenvolvimento é para
+aperfeiçoar processos, reduzir erros manuais e proporcionar maior eficiência no controle
+da entrada e fila, assim como o atendimento ao cliente. A plataforma contempla
+funcionalidades essenciais como o cadastro de produtos e cardápio, controle e
+gerenciamento dos tickets e da fila, registro das vendas realizadas assim como o público,
+além da emissão de relatórios gerenciais.
+O sistema de gestão tem como escopo o desenvolvimento de um aplicativo para
+dispositivos móveis, destinado a restaurantes populares ou bandejões, com foco em
+proporcionar maior agilidade, organização e controle nas operações diárias do
+restaurante. O sistema permitirá:
 
+## Equipe
+* **Caio Caminha Medeiros: 474074** 
+* **ARTHUR REGIS DE OLIVEIRA GOMES: 428024**
 ---
 
 ## Título do Projeto
-[Escolha um título criativo e descritivo para o seu projeto.]
+Bandejão Popular
 
 ## Descrição do Projeto
-[Descreva em 2-3 parágrafos o que o seu projeto faz. Qual é o problema que ele resolve? Quem é o público-alvo? Quais são as principais funcionalidades?]
+Queremos produzir um sistema para gestão e controle de atendimentos para o
+restaurante popular de Quixadá. O objetivo é facilitar o processo de venda de tickets,
+gerenciamento de filas, registros de vendas e geração de relatórios, proporcionando maior
+agilidade, organização e controle nas operações diárias do restaurante.
 
----
+Através desta plataforma, tem-se também o objetivo de melhorar a comunicação entre
+população de Quixadá e a organização dos atendimentos, promovendo feedbacks mais
+eficientes e o entendimento do público que é atendido, assim como o que não está sendo
+contemplado.
+
 
 ## Funcionalidades Principais
-[Liste as principais funcionalidades do projeto. Use caixas de seleção para que a equipe possa marcar as concluídas nas próximas etapas.]
+- [ ] Gestão de Fichas de Atendimento ○ Controle digital da quantidade de fichas de atendimento.
+        [ ] Registro automático da data, horário e refeição servida.
+        [ ] Verificação de limite de atendimentos por pessoa.
+- [ ] Gestão de Cardápio e Planejamento Nutricional
+        [ ] Registro de ingredientes e porções utilizadas por refeição.
+        [ ] Controle nutricional (valor calórico, grupos alimentares, restrições).
+        [ ] Cadastro e edição de cardápios diários e semanais.
+        [ ] Histórico de cardápios servidos e comparação de custo/nutrição.
+- [ ] Gestão Financeira e Custos
+        [ ] Registro de custos por refeição e por período (semanal e mensal).
+        [ ] Relatórios de desperdício e consumo.
+        [ ] Relatórios de custo total por tipo de refeição.
+        [ ] Relatórios de atendimentos diários, semanais e mensais.
+        [ ] Relatórios nutricionais.
+        [ ] Relatórios de atendimentos não realizados.
+        [ ] Exportação de dados (PDF, Excel).
 
-- [ ] Funcionalidade 1: [Breve descrição da funcionalidade]
-- [ ] Funcionalidade 2: [Breve descrição da funcionalidade]
-- [ ] Funcionalidade 3: [Breve descrição da funcionalidade]
-- [ ] ...
-
----
 
 > [!WARNING]
 > Daqui em diante o README.md só deve ser preenchido no momento da entrega final.
